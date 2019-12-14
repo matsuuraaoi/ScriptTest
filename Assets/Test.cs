@@ -32,6 +32,16 @@ public class Test : MonoBehaviour {
 		//発展課題
 		Boss lastboss=new Boss();
 		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
+		lastboss.Magic();
 	}
 	
 	// Update is called once per frame
